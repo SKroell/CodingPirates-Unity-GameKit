@@ -1,0 +1,9 @@
+{
+    "name": "com.codingpirates.scriptableobjects",
+    "displayName": "Coding Pirates - ScriptableObjects",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "author": "Coding Pirates DIKU",
+    "description": "Hjælpe funktioner til at arbejde med scriptableobjects",
+    "dependencies": {}
+}
